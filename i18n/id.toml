@@ -1,0 +1,36 @@
+# Translations for English
+# https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Generic
+#
+[translations]
+other = "Terjemahan"
+
+[postAvailable]
+other = "Diterjemahkan dalam bahasa"
+
+
+# 404.html
+#
+[archives]
+other = "Arsip"
+
+[home]
+other = "Beranda"
+
+[notFound]
+other = "Maaf, Halaman tidak ditemukan…"
+
+
+# posts/single.html
+#
+[readingTime]
+one   = "1 menit"
+other = "{{ .Count }} menit"
+
+[tableOfContents]
+other = "Daftar Isi"
+
+[wordCount]
+one   = "1 Kata"
+other = "{{ .Count }} Kata"
